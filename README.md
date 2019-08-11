@@ -28,7 +28,7 @@ The underlying layer of HormonyOS is composed of  `HormonyOS micro kernel`, `Lin
 
 # Ⅲ、Features
 
-![](img/features.png)
+![](img/harmony/features.png)
 
 HormonyOS is designed to meet the high standard connection requirements of full-scene intelligent experience. For this reason, Huawei has proposed four system solutions with major features.
 
