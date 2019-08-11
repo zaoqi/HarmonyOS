@@ -1,6 +1,6 @@
 # HarmonyOS
 
-[English Docs](../doc/README.md)|[中文文档](README-zh.md)
+[English Docs](../README.md)|[中文文档](README-zh.md)
 
 ----
 
