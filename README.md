@@ -8,7 +8,7 @@
 
 ----
 
-Tips: This project is not an official.This project collect some documents about HarmonyOS in the Internet.This is not a commercial project.This project just introduce HarmonyOS and all documents and codes come from Internet.If you use this project for business or something about make money, or in the event of any disputes arising from the usage of, or in connection with this project,you will accept all responsibility for the negative results or effects of one's choice or action.
+**Tips: This project is not an official.This project collect some documents about HarmonyOS in the Internet.This is not a commercial project.This project just introduce HarmonyOS and all documents and codes come from Internet.If you use this project for business or something about make money, or in the event of any disputes arising from the usage of, or in connection with this project,you will accept all responsibility for the negative results or effects of one's choice or action.**
 
 ----
 
@@ -61,8 +61,7 @@ HarmonyOS applies microkernel technology to Trusted Execution Environment (TEE),
 
 ![](img/harmony/harmonyos4.jpg)
 
-HarmonyOS relies on multi-terminal development IDE, multi-language unified compilation, distributed architecture Kit to provide screen layout control and interactive automatic adaptation, support control dragging, preview-oriented visual programming, so that developers can efficiently build multi-terminal automatic running App based on the same project, to achieve a real one-time development, multi-terminal. Deployment to achieve shared ecology across devices. Huawei Ark Compiler is the first static compiler to replace the Android virtual machine model, which allows developers to compile high-level languages into machine code at one time in the development environment. In addition, the Ark Compiler will support multi-language unified compilation in the future, which can greatly improve the development efficiency.
-
+HarmonyOS relies on multi-terminal development IDE, multi-language unified compilation, distributed architecture Kit to provide screen layout control and interactive automatic adaptation, support control dragging, preview-oriented visual programming, so that developers can efficiently build multi-terminal automatic running App based on the same project, to achieve a real one-time development, multi-terminal. Deployment to achieve shared ecology across devices. Huawei Ark Compiler is a static compiler to replace the Android Java virtual machine model, which allows developers to compile high-level Java language into machine code at one time in the development environment. In addition, the Ark Compiler will support multi-language unified compilation in the future, which can greatly improve the development efficiency.
 
 # Ⅳ、Resources
 
@@ -108,7 +107,7 @@ HarmonyOS relies on multi-terminal development IDE, multi-language unified compi
 
 #### a. Compiler
 
-- [Ark] : `Honmony` is an Android-app compatible operating system, Ark compiler can improve Android system operation fluency by 24%, response speed by 44%, and the smoothness of the third-party application up to 60%.
+- [Ark] : `HarmonyOS` is an Android-app compatible operating system, Ark compiler can improve Android system operation fluency by 24%, response speed by 44%, and the smoothness of the third-party application up to 60%.
 
 #### b. SDK
 
