@@ -8,6 +8,11 @@
 
 ----
 
+Tips: This project is not an official.This project collect some documents about HarmonyOS in the Internet.This is not a commercial project.This project just introduce HarmonyOS and all documents and codes come from Internet.If you use this project for business or something about make money, or in the event of any disputes arising from the usage of, or in connection with this project,you will accept all responsibility for the negative results or effects of one's choice or action.
+
+----
+
+
 # Ⅰ、What's HarmonyOS?
 
 `HarmonyOS` is the first full-scene distributed OS based on micro-kernel. It is an operating system independently developed by Huawei. On August 9, 2019, `HarmonyOS` System was officially released at the Huawei Developers Conference (<HDC.2019>). Huawei will take the lead in deploying intelligent terminals such as smart screens, vehicle terminals and wearable terminals. In the future, more and more intelligent devices will use open source `HarmonyOS` .
