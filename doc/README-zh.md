@@ -86,7 +86,7 @@
 - [ABI]
 - [EABI]
 - [LiteOS 鸿蒙的一部分，已经开源](../src/LiteOS/README.md)
-- [Harmony](../src/harmony)
+- [Harmony](../src/Harmony)
 
 ##  （四）软件驱动
 
